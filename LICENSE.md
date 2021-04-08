@@ -1,6 +1,4 @@
-MIT License
-
-Copyright (c) 2021 Mike Miller
+Copyright 2021 Mike Miller
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
